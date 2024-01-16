@@ -2,7 +2,7 @@
 
 Отчеты по лабораторным работам и ДЗ отправлять на репозиторий и дублировать на github.io
 
-#### Образ виртуальной машины Linux [Ubuntu 22.04][https://github.com/IgorSergeevichISIT/WebApp/blob/main/linux.md] для выполнения заданий курса 
+#### Образ виртуальной машины Linux [Ubuntu 22.04](https://github.com/IgorSergeevichISIT/WebApp/blob/main/linux.md) для выполнения заданий курса 
 
 ## Лекции
 ### Бекенд
