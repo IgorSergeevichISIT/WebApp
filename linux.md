@@ -1,7 +1,7 @@
 # Linux
 
 ## Образ для виртуальной машины
-- [Ссылка](https://drive.google.com/drive/u/1/folders/1yA44NaAYQO5qgHyWHG974rpyahCIOi8w) для использования образа Linux 22.04 LTS с предустановленным ПО
+- [Ссылка](https://drive.google.com/file/d/1QeDU6zdm6NF9cmwa5Nmq0nrooYoHJxNH/view?usp=drive_link) для использования образа Linux 22.04 LTS с предустановленным ПО
 - Пользователь student
 - Пароль root
 - База данных student
