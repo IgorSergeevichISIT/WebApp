@@ -52,7 +52,7 @@
 * Мастер-классы по UML [ER и структура системы](https://www.youtube.com/watch?v=-gm3A2Lk67A) и [Бизнес процесс, развертывание и запросы](https://www.youtube.com/watch?v=yx1LBQkQkMA&t=11s)
 * [Курс](https://devops.wiki.iu5edu.ru/docs/lectures/gitcicd/git/lectures/gitcicd/git) по основам Git
 
-## Лабораторные 2023
+## Лабораторные 2024
 
 #### Лабораторная 1 
 
