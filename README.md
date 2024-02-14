@@ -6,7 +6,7 @@
 
 ## Лекции
 ### Бекенд
-* [Лекция 1. История Web, MVC, Django](lectures/Lecture_1_Web.pdf) 
+* [Лекция 1. История Web, MVC, Django](lectures/Lecture_1_Web.pptx) 
 
 * [Лекция 2. Базы данных, ER, миграции, ORM](lectures/Lecture_2_Databases_ORM.pdf) 
 
