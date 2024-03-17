@@ -114,7 +114,7 @@ def hello(request):
 
 `urls.py`
 ```python
-from bmstu_lab import views
+from zgu_lab import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -148,7 +148,7 @@ urlpatterns = [
 <html lang="en" class="h-100">
 <head>
   <meta charset="utf-8">
-    <title>BMSTU</title>
+    <title>ZGU</title>
 </head>
 <body>
     Hello ZGU students!
@@ -162,7 +162,7 @@ urlpatterns = [
 TEMPLATES = [
     {
         # ...
-        "DIRS": [BASE_DIR / "bmstu_lab/templates"],
+        "DIRS": [BASE_DIR / "zgu_lab/templates"],
         # ...
     },
 ]
@@ -198,7 +198,7 @@ def hello(request):
 <html lang="en" class="h-100">
 <head>
   <meta charset="utf-8">
-    <title>BMSTU</title>
+    <title>ZGU</title>
 </head>
 <body>
     Hello ZGU students!
@@ -252,10 +252,10 @@ def hello(request):
 <html lang="en" class="h-100">
 <head>
   <meta charset="utf-8">
-    <title>BMSTU</title>
+    <title>ZGU</title>
 </head>
 <body>
-    Hello BMSTU students!
+    Hello ZGU students!
     Today is {{ data.current_date }}
 <ul>
     {% for var in data.list %}
@@ -331,7 +331,7 @@ def hello(request):
     <title>{% block title %}{% endblock %}</title>
 </head>
 <body>
-    Hello BMSTU students!
+    Hello ZGU students!
     {% block content %}{% endblock %}
 </body>
 </html>
