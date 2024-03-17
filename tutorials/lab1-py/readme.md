@@ -77,11 +77,11 @@
 Остальная работа выполняется точно также, как и на основной машине.
 
 ## Структура проекта
-В папке проекта `bmstu`:\
+В папке проекта ``zgu`:\
 `settings.py - настройки проекта, в проекте может быть несколько приложений`\
 `urls.py - соответствие урлам обработчиков(views).`
 
-В пакете `bmstu_lab`:\
+В пакете `zgu_lab`:\
 `views - обработчики приложения`
 
 **templates - папка для шаблонов (html-файлы)**
@@ -151,7 +151,7 @@ urlpatterns = [
     <title>BMSTU</title>
 </head>
 <body>
-    Hello BMSTU students!
+    Hello ZGU students!
 </body>
 </html>
 ```
@@ -201,7 +201,7 @@ def hello(request):
     <title>BMSTU</title>
 </head>
 <body>
-    Hello BMSTU students!
+    Hello ZGU students!
     Today is {{ current_date }}
 </body>
 </html>
