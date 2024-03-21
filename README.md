@@ -22,7 +22,6 @@
 
 * [Лекция 14. Брокер, очереди, gRPC. WebSocket, Polling](lectures/Lecture_14_Async.pdf)
 
-* Лекция 15. Резерв
 
 ### Фронтенд
 * [Лекция 6. Введение в React, жизненный цикл компонентов, CORS](lectures/Lecture_6_React_Introduction.pdf)
@@ -67,8 +66,9 @@
 
 Добавить поле input для фильтрации на сервере списка `услуг` по одному из полей (наименование, цена), отображаемых на странице (по умолчанию отображать все). Поле поиска должно сохраняться после запроса. Всего в приложении должно быть 2 GET запроса и одна модель-коллекция. Без `JavaScript`
 
-* [Инструкция по работе c Python](/tutorials/python/python.md)
-* [Методические указания Django](/tutorials/lab1-py/lab1_tutorial.md)
+* [Инструкция по работе c Python](/tutorials/python.md)
+* [Методические указания Django](/tutorials/lab1-py/readme.md)
+* [Методические указания Figma](/tutorials/lab1-design/readme.md)
 
 
 #### Лабораторная 2
