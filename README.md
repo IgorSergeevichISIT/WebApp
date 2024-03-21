@@ -91,7 +91,6 @@
 
 * [Методические указания PostgreSQL](/tutorials/lab2-db/README.md)
 * [Методические указания Django](/tutorials/lab2-py/lab2_tutorial.md)
-* [Методические указания Golang](/tutorials/lab2-go/README.md)
 * [Курс по основам БД](https://aiintro.docs.iu5edu.ru/docs/db/)
 
 #### Лабораторная 3
@@ -120,7 +119,6 @@
 - получение изображения для S3 напрямую по ссылке. При хранении картинки в БД - отдельный метод GET по id услуги.
 
 * [Методические указания DRF](/tutorials/lab3-py/lab3_tutorial.md)
-* [Методические указания Golang](/tutorials/lab3-go/README.md)
 * [Пример подключения S3-хранилища](https://github.com/iu5git/Networking/tree/main/S3)
 * [Пример использования Minio в Python](https://github.com/iu5git/Networking/tree/main/Minio_Python)
 
@@ -171,7 +169,7 @@
 * [Настройка через WSL](https://github.com/iu5git/Networking/tree/main/kafka_wsl)
 * [Методические указания Redis](/tutorials/redis/README.md)
 * [Методические указания DRF Сессии](/tutorials/lab5-py/README.md)
-* [Методические указания Golang JWT](/tutorials/lab5-go/README.md)
+
 
 #### Лабораторная 6
 
