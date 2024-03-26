@@ -119,8 +119,8 @@
 - получение изображения для S3 напрямую по ссылке. При хранении картинки в БД - отдельный метод GET по id услуги.
 
 * [Методические указания DRF](/tutorials/lab3-py/lab3_tutorial.md)
-* [Пример подключения S3-хранилища](https://github.com/iu5git/Networking/tree/main/S3)
-* [Пример использования Minio в Python](https://github.com/iu5git/Networking/tree/main/Minio_Python)
+* [Пример подключения S3-хранилища](/tutorials/S3/README.md)
+* [Пример использования Minio в Python](/tutorials/Minio_Python/Miniol.md)
 
 #### Лабораторная 4
 
