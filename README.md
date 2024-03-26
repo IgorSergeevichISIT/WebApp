@@ -91,7 +91,7 @@
 
 * [Методические указания PostgreSQL](/tutorials/lab2-db/README.md)
 * [Методические указания Django](/tutorials/lab2-py/lab2_tutorial.md)
-* [Курс по основам БД](https://aiintro.docs.iu5edu.ru/docs/db/)
+* [Курс по основам БД](https://github.com/IgorSergeevichISIT/ZGU_baki_IS21)
 
 #### Лабораторная 3
 
