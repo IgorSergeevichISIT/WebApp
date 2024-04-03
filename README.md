@@ -69,7 +69,8 @@
 * [Инструкция по работе c Python](/tutorials/python.md)
 * [Методические указания Django](/tutorials/lab1-py/readme.md)
 * [Методические указания Figma](/tutorials/lab1-design/readme.md)
-  
+
+Дополнительный материал 
 * [Вводный видеокурс Django](https://youtube.com/playlist?list=PLDyJYA6aTY1nZ9fSGcsK4wqeu-xaJksQQ&si=NHzzPKtltTUa0u5d)
 
 #### Лабораторная 2
