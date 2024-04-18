@@ -49,6 +49,7 @@
 * [Примеры](/diagrams) UML и ER диаграмм
 * [Примеры](/reports/) документации
 * Мастер-классы по UML [ER и структура системы](https://www.youtube.com/watch?v=-gm3A2Lk67A) и [Бизнес процесс, развертывание и запросы](https://www.youtube.com/watch?v=yx1LBQkQkMA&t=11s)
+* [FIGMA шаблоны](https://www.figma.com/file/OOUZ2t2ACi5ZkoGZIE9XZU/%D0%98%D0%A1%D0%98%D0%A2?type=design&node-id=0%3A1&mode=design&t=Zs1plGgAXhYfIcn7-1)
 
 
 ## Лабораторные 2024
