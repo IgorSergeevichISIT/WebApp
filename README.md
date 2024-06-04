@@ -1,6 +1,6 @@
 # Разработка Web-Приложений (РWП) 2024
 
-Отчеты по лабораторным работам и ДЗ отправлять на репозиторий и дублировать на [github.io](https://www.netlify.com/)
+Отчеты по лабораторным работам и ДЗ отправлять на репозиторий и дублировать на [NETLIFY](https://www.netlify.com/)
 
 #### Образ виртуальной машины Linux [Ubuntu 22.04](https://github.com/IgorSergeevichISIT/WebApp/blob/main/linux.md) для выполнения заданий курса 
 
