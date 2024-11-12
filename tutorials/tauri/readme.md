@@ -1,6 +1,6 @@
 # Tauri методические инструкции
 
-(МАСТЕР КЛАСС)[https://disk.yandex.ru/i/hPdFybP3Qpr3-w]
+[МАСТЕР КЛАСС](https://disk.yandex.ru/i/hPdFybP3Qpr3-w)
 
 
 ## План
