@@ -222,6 +222,7 @@
 
 Создание простого нативного приложения для интерфейса гостя (без авторизации и редактирования), состоящий из 2 страниц с фильтрацией и картинками. Подключить приложение к разработанному API через IP адрес в локальной сети.
 
+* [МАСТЕР КЛАСС](https://disk.yandex.ru/i/hPdFybP3Qpr3-w)
 * [Методические указания Tauri](/tutorials/tauri/)
 * [Методические указания React Native + Redux Toolkit](/tutorials/react-native/react_native.md)
 * [Методические указания iOS (Swift)](https://github.com/iu5git/web-2022/blob/main/tutorials/ios_tutorial/ios_tutorial.md)
