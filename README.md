@@ -1,12 +1,13 @@
-# Разработка Web-Приложений (РWП) 2024
+# Разработка Web-Приложений (РWП) 2025
 
 Отчеты по лабораторным работам и ДЗ отправлять на репозиторий и задеплоить проект на любой хост, который захотите [КАК ЗАДЕПЛОИТЬ ПРОЕКТ](https://www.youtube.com/watch?v=uLp-zgset00&t=49s)
 
 #### Образ виртуальной машины Linux [Ubuntu 22.04](https://github.com/IgorSergeevichISIT/WebApp/blob/main/linux.md) для выполнения заданий курса 
 
 ## Лекции
-### Бекенд
-* [Лекция 1. История Web, MVC, Django](lectures/Lecture_1_Web.pptx) 
+## Лекции
+
+* [Лекция 1. История Web, MVC, Django](lectures/Lecture_1_Web.pdf) 
 
 * [Лекция 2. Базы данных, ER, миграции, ORM](lectures/Lecture_2_Databases_ORM.pdf) 
 
@@ -16,25 +17,29 @@
 
 * [Лекция 5. Веб-сервис. REST. Swagger. Микросервисы](lectures/Lecture_5_Web_Service.pdf)
 
-* [Лекция 8. Авторизация, сессии, permissions. Redis, swagger](lectures/Lecture_8_Authorization.pdf)
+* [Лекция 6. ТЗ. Авторизация, сессии, permissions. Redis, swagger](lectures/Lecture_6_Authorization.pdf)
 
-* [Лекция 9. Цифровая подпись. JWT. SSO](lectures/Lecture_9_jwt.pdf)
+* [Лекция 7. Цифровая подпись. JWT. SSO](lectures/Lecture_7_jwt.pdf)
 
-* [Лекция 14. Брокер, очереди, gRPC. WebSocket, Polling](lectures/Lecture_14_Async.pdf)
+* [Лекция 8. Введение в React, жизненный цикл компонентов, CORS](lectures/Lecture_8_React_Introduction.pdf)
 
-
-### Фронтенд
-* [Лекция 6. Введение в React, жизненный цикл компонентов, CORS](lectures/Lecture_6_React_Introduction.pdf)
-
-* [Лекция 7. React Hooks](lectures/Lecture_7_Hooks.pdf)
+* [Лекция 9. Архитектура фронтенда: SSG, BFF, FSD](lectures/Lecture_9_Frontend_architecture.pdf)
 
 * [Лекция 10. Redux](lectures/Lecture_10_Redux.pdf)
 
-* [Лекция 11. POST, Axios. Диаграммы бизнес требований](lectures/Lecture_11_Axios.pdf)
+* [Лекция 11. Адаптивная верстка. PWA. Tauri](lectures/Lecture_11_PWA.pdf)
 
-* [Лекция 12. Адаптивная верстка. PWA. Нативные приложения](lectures/Lecture_12_PWA.pdf)
+* [Лекция 12. POST, Axios. Диаграммы бизнес требований](lectures/Lecture_12_Axios.pdf)
 
-* [Лекция 13. Мобильные приложения iOS vs Android](lectures/Lecture_13_Mobile.pdf)
+* [Лекция 13. Брокер, очереди, gRPC. WebSocket, Polling](lectures/Lecture_13_Async.pdf)
+
+* [Лекция 14. Нативные приложения. iOS vs Android](lectures/Lecture_14_Mobile.pdf)
+
+* Лекция 15. Резерв
+
+![image](https://github.com/user-attachments/assets/0dc120dd-21ad-459b-9c1f-f882e5f10acf)
+
+
 
 ## Лабораторные работы
 В рамках практических работ по курсу необходимо каждому разработать заявочную систему на услуги по своей предметной области. Система состоит из веб-сервиса, фронтенд приложения, нативного приложения и второго асинхронного сервиса.
