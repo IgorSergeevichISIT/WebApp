@@ -5,7 +5,6 @@
 #### Образ виртуальной машины Linux [Ubuntu 22.04](https://github.com/IgorSergeevichISIT/WebApp/blob/main/linux.md) для выполнения заданий курса 
 
 ## Лекции
-## Лекции
 
 * [Лекция 1. История Web, MVC, Django](lectures/Lecture_1_Web.pdf) 
 
@@ -37,7 +36,7 @@
 
 * Лекция 15. Резерв
 
-![image](https://github.com/user-attachments/assets/0dc120dd-21ad-459b-9c1f-f882e5f10acf)
+
 
 
 
