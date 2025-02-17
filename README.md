@@ -61,10 +61,10 @@
 * [Демо версия](https://iu5git.github.io/Web/) интерфейса создателя заявки
 * [Примеры](/diagrams) UML и ER диаграмм
 * [Примеры](/reports/) документации
-* Мастер-классы по UML [ER и структура системы](https://www.youtube.com/watch?v=-gm3A2Lk67A) и [Бизнес процесс, развертывание и запросы](https://www.youtube.com/watch?v=yx1LBQkQkMA&t=11s)
+* Мастер-классы по UML [ER и структура системы]() и [Бизнес процесс, развертывание и запросы]()
 * [FIGMA шаблоны](https://www.figma.com/file/OOUZ2t2ACi5ZkoGZIE9XZU/%D0%98%D0%A1%D0%98%D0%A2?type=design&node-id=0%3A1&mode=design&t=Zs1plGgAXhYfIcn7-1)
 * * [Установка](/tutorials/install/README.md) `Python`, `NodeJS`, `Git`, `Docker` на Windows, MacOS, Linux
-* [Основные команды git и описание Docker Compose](/tutorials/git-docker/). Подробные мастер-классы по [основам Git]([https://iu5edu.ru/wiki/devops/docs/master-classes/git/](https://arhitecisit.netlify.app/docs/lectures/gitcicd)) и [основам Docker](https://arhitecisit.netlify.app/docs/lectures/docker)
+* [Основные команды git и описание Docker Compose](/tutorials/git-docker/). Подробные мастер-классы по [основам Git](https://arhitecisit.netlify.app/docs/lectures/gitcicd)) и [основам Docker](https://arhitecisit.netlify.app/docs/lectures/docker)
 
 
 ## Лабораторные 2025
