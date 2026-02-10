@@ -159,7 +159,7 @@
 - POST деавторизация (заглушка для 4ой лабораторной)
 
 * [Методические указания Golang](/tutorials/lab3-go/README.md)
-* [Методические указания Django](/tutorials/lab3-py/README.md)
+* [Методические указания Django](/tutorials/lab3-py/lab3_tutorial.md)
 
 #### Лабораторная 4
 
