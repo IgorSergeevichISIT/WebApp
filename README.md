@@ -113,8 +113,10 @@
 
 Обязательно наличие 5 или более статусов `заявок`: черновик, удалён, сформирован, завершён, отклонён. У каждого пользователя не более одной заявки в статусе `черновик`. Названия таблиц и их полей должны соответствовать предметной области. Одно из доп. полей `заявки` или `м-м` рассчитывается при завершении заявки.
 
-* [Установка в Docker и использование](/tutorials/lab2-db/README.md) PostgreSQL. [Курс](https://iu5edu.ru/wiki/devops/docs/master-classes/postgresql/) по основам PostgreSQL. [Лабораторные](https://github.com/iu5git/Database) по PostgreSQL, индексы, Tauri, чат-бот
-* [Методические указания Golang](/tutorials/lab2-go/README.md). Видео мастер-класс [gORM и шаблоны Golang](https://vk.com/video-211704031_456239173)
+* [Установка в Docker и использование](/tutorials/lab2-db/README.md) PostgreSQL.
+* [Методические указания Golang](/tutorials/lab2-go/README.md)
+* [Методические указания Django](/tutorials/lab2-py/README.md).
+* Видео мастер-класс [gORM и шаблоны Golang](https://vk.com/video-211704031_456239173)
 
 #### Лабораторная 3
 
@@ -157,7 +159,7 @@
 - POST деавторизация (заглушка для 4ой лабораторной)
 
 * [Методические указания Golang](/tutorials/lab3-go/README.md)
-* [Методические указания NestJS](/tutorials/lab3-nest/README.md)
+* [Методические указания Django](/tutorials/lab3-py/README.md)
 
 #### Лабораторная 4
 
