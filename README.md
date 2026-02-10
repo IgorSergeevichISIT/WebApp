@@ -116,7 +116,7 @@
 * [Установка в Docker и использование](/tutorials/lab2-db/README.md) PostgreSQL.
 * [Методические указания Golang](/tutorials/lab2-go/README.md)
 * [Методические указания Django](/tutorials/lab2-py/README.md).
-* Видео мастер-класс [gORM и шаблоны Golang](https://vk.com/video-211704031_456239173)
+* Видео мастер-класс [gORM и шаблоны Golang](ПОЗЖЕ)
 
 #### Лабораторная 3
 
